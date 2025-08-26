@@ -1,0 +1,16 @@
+--- test/Tests/Bid/01_Unprivileged_User_Bid_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 22:00:17.173526177 -0500
++++ test/Tests/Bid/01_Unprivileged_User_Bid_Is_Invalid/Output_007/Terminal_Output.txt	2023-03-05 01:28:44.410980955 -0500
+@@ -1,5 +1,5 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestSeller001!
+-Error: Invalid Transaction. User lacks privilege.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Error: Invalid Transaction. Sellers cannot bid an item.
++Goodbye, thank you for visiting!
+--- test/Tests/Bid/01_Unprivileged_User_Bid_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 22:00:33.573318231 -0500
++++ test/Tests/Bid/01_Unprivileged_User_Bid_Is_Invalid/Output_007/Daily_Transaction.txt	2023-03-05 01:28:44.410980955 -0500
+@@ -1 +1 @@
+-00 TestSeller001   BS 001000.00 18410906283934990467     
++00 TestSeller001   SS 001000.00 18410906283934990467     

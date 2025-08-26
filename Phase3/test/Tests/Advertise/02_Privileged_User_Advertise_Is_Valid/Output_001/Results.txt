@@ -1,0 +1,23 @@
+--- test/Tests/Advertise/02_Privileged_User_Advertise_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/Advertise/02_Privileged_User_Advertise_Is_Valid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.312021919 -0500
+@@ -1,7 +1,7 @@
+-Welcome, TestSeller001
+-Please enter item name:
+-Please enter minimum bid in dollars:
+-Please enter number of days until auction ends:
+-Advertise transaction successful: TestItem004 007 015.00
+-Goodbye, thank you for visiting!
+-Session Terminated
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Advertise/02_Privileged_User_Advertise_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/Advertise/02_Privileged_User_Advertise_Is_Valid/Output_001/Daily_Transaction.txt	2023-03-04 02:45:35.315355218 -0500
+@@ -1,2 +0,0 @@
+-03 TestItem004         TestSeller001 007 015.00
+-00 TestSeller001   SS 001000.00
+\ No newline at end of file

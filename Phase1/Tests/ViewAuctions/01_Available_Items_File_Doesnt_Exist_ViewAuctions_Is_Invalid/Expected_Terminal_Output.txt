@@ -1,0 +1,4 @@
+Welcome TestFull001!
+Error: Invalid Transaction. Cannot access available items list.
+Goodbye, thank you for visiting!
+Session terminated.

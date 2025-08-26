@@ -1,0 +1,12 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestBuyer001!
+Processing Bid Transaction...
+Enter item name:
+Enter seller name:
+Current highest bid: 150
+Enter new bid:
+Bid successful: TestItem003               TestSeller001   TestBuyer001    021 200.00
+Goodbye, thank you for visiting!

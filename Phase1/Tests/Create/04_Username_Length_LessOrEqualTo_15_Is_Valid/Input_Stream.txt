@@ -1,0 +1,7 @@
+login
+TestAdmin001
+create
+Testman006
+FS
+10
+logout

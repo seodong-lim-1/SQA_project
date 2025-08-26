@@ -1,0 +1,7 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestAdmin001!
+Error: Invalid Transaction. Transaction does not exist.
+Goodbye, thank you for visiting!

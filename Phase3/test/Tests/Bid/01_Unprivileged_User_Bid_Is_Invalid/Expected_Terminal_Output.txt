@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Error: Invalid Transaction. Sellers cannot bid an item.
+Goodbye, thank you for visiting!

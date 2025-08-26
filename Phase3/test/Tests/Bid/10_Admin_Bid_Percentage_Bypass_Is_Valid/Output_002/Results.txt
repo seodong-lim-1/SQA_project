@@ -1,0 +1,22 @@
+--- test/Tests/Bid/10_Admin_Bid_Percentage_Bypass_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Bid/10_Admin_Bid_Percentage_Bypass_Is_Valid/Output_002/Terminal_Output.txt	2023-03-04 02:51:53.991469287 -0500
+@@ -1,6 +1,6 @@
+-Welcome TestBuyer001    
+-Please enter item to bid on:
+-Please enter bid:
+-Bid transaction successful.
+-Goodbye, thank you for visiting!
+-Session Terminated
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Bid/10_Admin_Bid_Percentage_Bypass_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Bid/10_Admin_Bid_Percentage_Bypass_Is_Valid/Output_002/Daily_Transaction.txt	2023-03-04 02:51:53.991469287 -0500
+@@ -1,2 +0,0 @@
+-04 TestItem001         TestSeller001   TestAdmin001   051.00
+-00 TestAdmin001    AA 000949.00
+\ No newline at end of file

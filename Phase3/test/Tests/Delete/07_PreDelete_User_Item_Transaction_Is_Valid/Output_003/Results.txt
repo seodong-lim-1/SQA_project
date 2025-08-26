@@ -1,0 +1,24 @@
+--- test/Tests/Delete/07_PreDelete_User_Item_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.014283317 -0500
++++ test/Tests/Delete/07_PreDelete_User_Item_Transaction_Is_Valid/Output_003/Terminal_Output.txt	2023-03-04 13:51:17.992021692 -0500
+@@ -1,8 +1,5 @@
+-Welcome, TestAdmin001!
+-Please enter item to bid on:
+-Please enter bid:
+-Bid transaction successful.
+-Please enter user to delete:
+-Delete transaction successful: TestSeller001
+-Goodbye, thank you for visiting!
+-Session Terminated
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Delete/07_PreDelete_User_Item_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.014283317 -0500
++++ test/Tests/Delete/07_PreDelete_User_Item_Transaction_Is_Valid/Output_003/Daily_Transaction.txt	2023-03-04 13:51:18.102020834 -0500
+@@ -1,3 +0,0 @@
+-04 TestItem001         TestSeller001   TestAdmin001   100.00 
+-01 TestSeller001   SS 001000.00
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

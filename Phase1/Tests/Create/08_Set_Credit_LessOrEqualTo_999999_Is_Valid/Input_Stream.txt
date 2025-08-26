@@ -1,0 +1,7 @@
+login
+TestAdmin001
+create
+TestFull002
+FS
+800400
+logout

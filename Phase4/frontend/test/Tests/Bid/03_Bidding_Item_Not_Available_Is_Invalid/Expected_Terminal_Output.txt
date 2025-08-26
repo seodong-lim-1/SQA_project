@@ -1,0 +1,11 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestBuyer001!
+Processing Bid Transaction...
+Enter item name:
+Enter seller name:
+Error: Invalid Transaction. Item does not exist.
+Bid cancelled.
+Goodbye, thank you for visiting!

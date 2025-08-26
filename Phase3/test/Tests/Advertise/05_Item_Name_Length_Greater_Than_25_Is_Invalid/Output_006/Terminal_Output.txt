@@ -1,0 +1,6 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Enter name of item
+Item name invalid as it is over 25 characters
+Goodbye, thank you for visiting!

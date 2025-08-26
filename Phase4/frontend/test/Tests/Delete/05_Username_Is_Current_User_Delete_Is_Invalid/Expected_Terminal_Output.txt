@@ -1,0 +1,10 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestAdmin001!
+Processing Delete Transaction...
+Enter username:
+Error: Invalid Transaction. Cannot delete yourself.
+Delete cancelled.
+Goodbye, thank you for visiting!

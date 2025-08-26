@@ -1,0 +1,9 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestBuyer001!
+Processing Advertise Transaction...
+Error: Invalid Transaction. User lacks privilege.
+Advertise cancelled.
+Goodbye, thank you for visiting!

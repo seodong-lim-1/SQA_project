@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Input username to delete: 
+Username is in the system
+Failed to delete, cannot delete oneself
+Goodbye, thank you for visiting!

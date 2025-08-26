@@ -1,0 +1,8 @@
+Welcome, TestAdmin001!
+Please enter item to bid on:
+Please enter bid:
+Bid transaction successful.
+Please enter user to delete:
+Delete transaction successful: TestSeller001
+Goodbye, thank you for visiting!
+Session Terminated

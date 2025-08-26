@@ -1,0 +1,4 @@
+Welcome, TestFull001!
+Error: Invalid transaction. User is not an admin of this system.
+Goodbye, thank you for visiting!
+Session Terminated

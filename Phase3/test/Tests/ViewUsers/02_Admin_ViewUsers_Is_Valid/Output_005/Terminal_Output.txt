@@ -1,0 +1,12 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+|-----------------------------------------|
+| Username        | Privilege | Credit    |
+|-----------------------------------------|
+| TestAdmin001    | AA        | 1000.00   | 
+| TestFull001     | FS        | 1000.00   | 
+| TestBuyer001    | BS        | 1000.00   | 
+| TestSeller001   | SS        | 1000.00   | 
+|-----------------------------------------|
+Goodbye, thank you for visiting!

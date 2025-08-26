@@ -1,0 +1,17 @@
+--- test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Output_002/Terminal_Output.txt	2023-03-04 02:51:53.861470630 -0500
+@@ -1,5 +1,5 @@
+-Welcome, TestSeller001
+-Please enter item name:
+-Error: Invalid transaction. Item name is over 25 character limit.
+-Goodbye, thank you for visiting!
+-Session Terminated
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Output_002/Daily_Transaction.txt	2023-03-04 02:51:53.864803931 -0500
+@@ -1 +0,0 @@
+-00 TestSeller001   SS 001000.00

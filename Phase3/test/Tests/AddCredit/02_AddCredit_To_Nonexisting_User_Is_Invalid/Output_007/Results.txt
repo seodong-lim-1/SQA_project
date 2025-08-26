@@ -1,0 +1,14 @@
+--- test/Tests/AddCredit/02_AddCredit_To_Nonexisting_User_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 21:21:01.110017248 -0500
++++ test/Tests/AddCredit/02_AddCredit_To_Nonexisting_User_Is_Invalid/Output_007/Terminal_Output.txt	2023-03-05 01:28:44.004319116 -0500
+@@ -1,7 +1,7 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestAdmin001!
+-Processing AddCredit Transaction...
+-Enter username:
+-Error: Invalid Transaction. User does not exist.
+-Goodbye, thank you for visiting.
++Enter the user you want to add credit into.
++Username not found in the system. Please try again. 
++Error: Invalid Transaction. Transaction does not exist.
++Goodbye, thank you for visiting!

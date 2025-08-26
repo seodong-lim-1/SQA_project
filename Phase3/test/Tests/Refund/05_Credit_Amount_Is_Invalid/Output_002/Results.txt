@@ -1,0 +1,23 @@
+--- test/Tests/Refund/05_Credit_Amount_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.017616603 -0500
++++ test/Tests/Refund/05_Credit_Amount_Is_Invalid/Output_002/Terminal_Output.txt	2023-03-04 02:51:54.494797415 -0500
+@@ -1,7 +1,7 @@
+-Welcome TestAdmin001!
+-Please enter Buyer username:
+-Please enter Seller username:
+-Please enter refund amount:
+-Error: Invalid Transaction. Credit amount is invalid.
+-Goodbye, thank you for visiting.
+-Session terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Refund/05_Credit_Amount_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.017616603 -0500
++++ test/Tests/Refund/05_Credit_Amount_Is_Invalid/Output_002/Daily_Transaction.txt	2023-03-04 02:51:54.501464013 -0500
+@@ -1 +0,0 @@
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

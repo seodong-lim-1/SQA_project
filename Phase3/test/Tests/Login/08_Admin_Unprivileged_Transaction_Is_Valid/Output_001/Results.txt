@@ -1,0 +1,24 @@
+--- test/Tests/Login/08_Admin_Unprivileged_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 02:09:51.694698653 -0500
++++ test/Tests/Login/08_Admin_Unprivileged_Transaction_Is_Valid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.805350242 -0500
+@@ -1,7 +1,7 @@
+-Welcome TestAdmin001!
+-Please enter item name:
+-Please enter minimum bid in dollars:
+-Please enter number of days until auction ends:
+-Advertise transaction successful. 
+-Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Login/08_Admin_Unprivileged_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-04 02:09:51.694698653 -0500
++++ test/Tests/Login/08_Admin_Unprivileged_Transaction_Is_Valid/Output_001/Daily_Transaction.txt	2023-03-04 02:45:35.805350242 -0500
+@@ -1,2 +0,0 @@
+-03 TestItem001         TestAdmin001   007 015.00
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

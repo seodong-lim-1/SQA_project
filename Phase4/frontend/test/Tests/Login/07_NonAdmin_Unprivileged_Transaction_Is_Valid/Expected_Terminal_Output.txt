@@ -1,0 +1,14 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestFull001!
+Processing ViewAuctions Transaction...
+|-----------------------------------------------------------------------------------------|
+| Item Name                 | Seller          | Top Bidder      | Days Left | Highest Bid |
+|-----------------------------------------------------------------------------------------|
+| TestItem001               | TestSeller001   | TestBuyer001    | 7         | 50.00       | 
+| TestItem002               | TestFull001     | TestBuyer001    | 14        | 100.00      | 
+| TestItem003               | TestSeller001   | TestFull001     | 21        | 150.00      | 
+|-----------------------------------------------------------------------------------------|
+Goodbye, thank you for visiting!

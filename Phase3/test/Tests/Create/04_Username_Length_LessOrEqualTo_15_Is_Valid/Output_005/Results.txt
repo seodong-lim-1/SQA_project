@@ -1,0 +1,9 @@
+--- test/Tests/Create/04_Username_Length_LessOrEqualTo_15_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 23:06:20.464011541 -0500
++++ test/Tests/Create/04_Username_Length_LessOrEqualTo_15_Is_Valid/Output_005/Terminal_Output.txt	2023-03-05 01:08:23.175455348 -0500
+@@ -7,4 +7,4 @@
+ Enter new user credit: 
+ Enter new user password: 
+ Create successful: TestFull002     FS 000000.00 18410906283934990467     
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Goodbye, thank you for visiting!

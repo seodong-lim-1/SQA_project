@@ -1,0 +1,4 @@
+Welcome TestFull001
+Error: Invalid transaction. User lacks privilege.
+Goodbye, thank you for visiting!
+Session terminated.

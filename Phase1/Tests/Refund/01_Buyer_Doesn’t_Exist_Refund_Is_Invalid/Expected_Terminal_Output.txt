@@ -1,0 +1,5 @@
+Welcome TestAdmin001!
+Please enter Buyer username:
+Error: Invalid Transaction. User does not exist.
+Goodbye, thank you for visiting.
+Session terminated.

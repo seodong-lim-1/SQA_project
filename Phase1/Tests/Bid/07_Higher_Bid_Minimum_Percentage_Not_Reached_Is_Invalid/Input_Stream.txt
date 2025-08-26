@@ -1,0 +1,6 @@
+login
+TestBuyer001    
+bid
+TestItem001
+52
+logout

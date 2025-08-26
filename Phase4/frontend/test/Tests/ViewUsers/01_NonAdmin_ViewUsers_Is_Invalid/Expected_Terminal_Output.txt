@@ -1,0 +1,9 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestFull001!
+Processing ViewUsers Transaction...
+Error: Invalid Transaction. User lacks privilege.
+ViewUsers cancelled.
+Goodbye, thank you for visiting!

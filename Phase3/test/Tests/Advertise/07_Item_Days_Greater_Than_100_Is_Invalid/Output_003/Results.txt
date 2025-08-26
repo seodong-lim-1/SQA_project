@@ -1,0 +1,21 @@
+--- test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Output_003/Terminal_Output.txt	2023-03-04 13:51:17.728690419 -0500
+@@ -1,7 +1,7 @@
+-Welcome, TestSeller001
+-Please enter item name:
+-Please enter minimum bid in dollars:
+-Please enter number of days until auction ends:
+-Error: Invalid transaction. Auction length is greater than 100 day limit.
+-Goodbye, thank you for visiting!
+-Session Terminated
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Output_003/Daily_Transaction.txt	2023-03-04 13:51:17.728690419 -0500
+@@ -1 +0,0 @@
+-00 TestSeller001   SS 001000.00

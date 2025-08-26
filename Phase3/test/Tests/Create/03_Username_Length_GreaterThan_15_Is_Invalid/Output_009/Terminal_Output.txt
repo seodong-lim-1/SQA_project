@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing Create Transaction...
+Enter new username: 
+Error: Invalid Transaction. Username must be less than 15 characters.
+Goodbye, thank you for visiting!

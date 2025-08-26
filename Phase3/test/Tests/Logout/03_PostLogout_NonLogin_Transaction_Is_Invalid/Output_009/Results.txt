@@ -1,0 +1,8 @@
+--- test/Tests/Logout/03_PostLogout_NonLogin_Transaction_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Logout/03_PostLogout_NonLogin_Transaction_Is_Invalid/Output_009/Terminal_Output.txt	2023-03-06 11:50:55.882468700 -0500
+@@ -2,4 +2,3 @@
+ Enter password: 
+ Welcome TestAdmin001!
+ Goodbye, thank you for visiting!
+-Error: Invalid Transaction. Must login first.
+\ No newline at end of file

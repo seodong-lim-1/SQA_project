@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Error: Invalid Transaction. Item name length must be less than 25.
+Goodbye, thank you for visiting.

@@ -1,0 +1,10 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestAdmin001!
+Processing AddCredit Transaction...
+Enter username:
+Error: Invalid Transaction. Username does not exist.
+AddCredit cancelled.
+Goodbye, thank you for visiting!

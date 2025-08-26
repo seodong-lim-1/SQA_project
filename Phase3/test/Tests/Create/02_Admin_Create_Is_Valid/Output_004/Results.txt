@@ -1,0 +1,22 @@
+--- test/Tests/Create/02_Admin_Create_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Create/02_Admin_Create_Is_Valid/Output_004/Terminal_Output.txt	2023-03-04 14:14:12.295854038 -0500
+@@ -1,7 +1,7 @@
+-Welcome TestAdmin001!
+-Please enter user name:
+-Please enter user type:
+-Please enter user credit:
+-Create transaction successful: TestFull002     FS 000000.00
+-Goodbye, thank you for visiting!
+-Session terminated.
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Create/02_Admin_Create_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Create/02_Admin_Create_Is_Valid/Output_004/Daily_Transaction.txt	2023-03-04 14:14:12.295854038 -0500
+@@ -1,2 +0,0 @@
+-01 TestFull002     FS 000000.00
+-00 TestAdmin001    AA 001000.00

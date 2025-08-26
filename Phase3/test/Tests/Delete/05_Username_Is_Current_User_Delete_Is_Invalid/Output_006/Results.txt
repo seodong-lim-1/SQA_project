@@ -1,0 +1,21 @@
+--- test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:57:16.892930256 -0500
++++ test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Output_006/Terminal_Output.txt	2023-03-05 01:18:58.354601181 -0500
+@@ -1,7 +1,7 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestAdmin001!
+-Processing Delete Transaction...
+-Enter username: 
+-Error: Invalid Transaction. Cannot delete oneself.
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Input username to delete: 
++Username is in the system
++Failed to delete, cannot delete oneself
++Goodbye, thank you for visiting!
+--- test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 23:56:53.159892071 -0500
++++ test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:58.354601181 -0500
+@@ -1 +1 @@
+-00 TestAdmin001    AA 001000.00 18410906283934990467     
+\ No newline at end of file
++00 TestAdmin001    AA 001000.00 18410906283934990467     

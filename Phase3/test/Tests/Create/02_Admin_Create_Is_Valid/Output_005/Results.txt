@@ -1,0 +1,9 @@
+--- test/Tests/Create/02_Admin_Create_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 23:03:33.129437988 -0500
++++ test/Tests/Create/02_Admin_Create_Is_Valid/Output_005/Terminal_Output.txt	2023-03-05 01:08:23.152122291 -0500
+@@ -7,4 +7,4 @@
+ Enter new user credit: 
+ Enter new user password: 
+ Create successful: TestFull002     FS 000000.00 18410906283934990467     
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Goodbye, thank you for visiting!

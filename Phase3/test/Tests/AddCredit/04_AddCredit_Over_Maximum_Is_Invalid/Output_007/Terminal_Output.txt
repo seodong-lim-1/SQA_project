@@ -1,0 +1,9 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Enter the user you want to add credit into.
+Username found
+Enter the amount of credit to add:
+Error: Amount of credit added must be between 0 and 1000.
+Error: Invalid Transaction. Transaction does not exist.
+Goodbye, thank you for visiting!

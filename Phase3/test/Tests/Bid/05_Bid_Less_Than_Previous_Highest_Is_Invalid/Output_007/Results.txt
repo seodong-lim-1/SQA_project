@@ -1,0 +1,29 @@
+--- test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 22:06:41.998637668 -0500
++++ test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Output_007/Terminal_Output.txt	2023-03-05 01:28:44.490980005 -0500
+@@ -1,9 +1,14 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestBuyer001!
+-Processing Bid Transaction...
+-Enter item name:
+-Enter seller name:
+-Enter minimum bid:
+-Error: Invalid Transaction. Bid is less than previous current highest bid.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Welcome to the bidding page!
++Enter the name of the item.
++This item exists among one or more sellers!
++Enter the name of the seller.
++Item found!
++Current highest bid: 50
++Enter your bid
++Error: Bid must be greater than Current Bid
++Error: You must enter a bid atlease 5% higher than the last bid.
++Bid successful: TestItem001               TestSeller001   TestBuyer001    007 050.00
++Goodbye, thank you for visiting!
+--- test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 22:07:07.271649470 -0500
++++ test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Output_007/Daily_Transaction.txt	2023-03-05 01:28:44.490980005 -0500
+@@ -1 +1,2 @@
++XX_IIIIIIIIIIIIIIIIIIIIIIIII_SSSSSSSSSSSSSSS_UUUUUUUUUUUUUUU_DDD_BBBBBB
+ 00 TestBuyer001    BS 001000.00 18410906283934990467     

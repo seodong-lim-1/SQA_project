@@ -1,0 +1,11 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Enter the minimum bid: 
+Enter the amount of days item will be listed for:
+Advertise successful: TestItem004               TestSeller001                   007 100.00
+Goodbye, thank you for visiting!

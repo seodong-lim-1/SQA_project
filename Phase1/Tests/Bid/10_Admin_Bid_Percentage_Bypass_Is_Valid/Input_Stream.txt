@@ -1,0 +1,6 @@
+login
+TestAdmin001    
+bid
+TestItem001
+51
+logout

@@ -1,0 +1,22 @@
+--- test/Tests/Delete/04_Username_Exists_Delete_Is_Valid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Delete/04_Username_Exists_Delete_Is_Valid/Output_010/Terminal_Output.txt	2023-03-06 14:44:53.945519900 -0500
+@@ -1,7 +1,6 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestAdmin001!
+-Processing Delete Transaction...
+-Enter username: 
+-Delete successful: TestFull001     FS 001000.00 18410906283934990467     
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Input username to delete: 
++Username is in the system
++Goodbye, thank you for visiting!
+--- test/Tests/Delete/04_Username_Exists_Delete_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Delete/04_Username_Exists_Delete_Is_Valid/Output_010/Daily_Transaction.txt	2023-03-06 14:44:53.944519900 -0500
+@@ -1,2 +1,2 @@
+-02 TestFull001     FS 001000.00 18410906283934990467     
+-00 TestAdmin001    AA 001000.00 18410906283934990467     
+\ No newline at end of file
++XX_UUUUUUUUUUUUUUU_TT_CCCCCCCCC_PPPPPPPPPPPPPPPPPPPPPPPPP
++00 TestAdmin001    AA 001000.00 18410906283934990467     

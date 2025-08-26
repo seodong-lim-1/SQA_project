@@ -1,0 +1,18 @@
+--- test/Tests/Bid/09_NonAdmin_Bid_Percentage_Bypass_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 23:36:24.132133200 -0500
++++ test/Tests/Bid/09_NonAdmin_Bid_Percentage_Bypass_Is_Invalid/Output_009/Terminal_Output.txt	2023-03-06 11:50:53.539407300 -0500
+@@ -4,6 +4,7 @@
+ Processing Bid Transaction...
+ Enter item name:
+ Enter seller name:
+-Enter minimum bid:
+-Error: Invalid Transaction. Bid must be atleast 5% higher than previous current highest bid.
+-Goodbye, thank you for visiting.
++Current highest bid: 50
++Enter your bid:
++Bid successful: TestItem001               TestSeller001   TestBuyer001    007 051.00
++Goodbye, thank you for visiting!
+--- test/Tests/Bid/09_NonAdmin_Bid_Percentage_Bypass_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Bid/09_NonAdmin_Bid_Percentage_Bypass_Is_Invalid/Output_009/Daily_Transaction.txt	2023-03-06 11:50:53.539407300 -0500
+@@ -1 +1,2 @@
++04 TestItem001               TestSeller001   TestBuyer001    007 051.00
+ 00 TestBuyer001    BS 001000.00 18410906283934990467     

@@ -1,0 +1,28 @@
+--- test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 22:11:08.181915983 -0500
++++ test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Output_006/Terminal_Output.txt	2023-03-05 01:18:58.191269784 -0500
+@@ -1,9 +1,13 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestBuyer001!
+-Processing Bid Transaction...
+-Enter item name:
+-Enter seller name:
+-Enter minimum bid:
++Welcome to the bidding page!
++Enter the name of the item.
++This item exists among one or more sellers!
++Enter the name of the seller.
++Item found!
++Current highest bid: 50
++Enter your bid
++Transaction Accepted
+ Bid successful: TestItem001               TestSeller001   TestBuyer001    007 200.00
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Goodbye, thank you for visiting!
+--- test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-04 22:11:02.748651848 -0500
++++ test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:58.191269784 -0500
+@@ -1,2 +1,2 @@
+-04 TestItem001               TestSeller001   TestBuyer001    007 200.00
++XX_IIIIIIIIIIIIIIIIIIIIIIIII_SSSSSSSSSSSSSSS_UUUUUUUUUUUUUUU_DDD_BBBBBB
+ 00 TestBuyer001    BS 001000.00 18410906283934990467     

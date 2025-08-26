@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing AddCredit Transaction...
+Enter username:
+Enter credit amount:
+Error: Invalid Transaction. Invalid credit amount.
+Goodbye, thank you for visiting.

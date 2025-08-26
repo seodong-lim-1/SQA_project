@@ -1,0 +1,17 @@
+--- test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.014283317 -0500
++++ test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Output_003/Terminal_Output.txt	2023-03-04 13:51:17.972021850 -0500
+@@ -1,5 +1,5 @@
+-Welcome, TestAdmin001!
+-Please enter user to delete:
+-Error: Invalid transaction. Cannot delete self.
+-Goodbye, thank you for visiting!
+-Session Terminated
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.014283317 -0500
++++ test/Tests/Delete/05_Username_Is_Current_User_Delete_Is_Invalid/Output_003/Daily_Transaction.txt	2023-03-04 13:51:17.975355155 -0500
+@@ -1 +0,0 @@
+-00 TestAdmin001    AA 001000.00

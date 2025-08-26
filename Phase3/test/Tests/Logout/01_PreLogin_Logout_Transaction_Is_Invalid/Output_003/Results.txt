@@ -1,0 +1,6 @@
+--- test/Tests/Logout/01_PreLogin_Logout_Transaction_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.017616603 -0500
++++ test/Tests/Logout/01_PreLogin_Logout_Transaction_Is_Invalid/Output_003/Terminal_Output.txt	2023-03-04 13:51:18.372018730 -0500
+@@ -1 +1 @@
+-Error: Invalid transaction. Please login first.
+\ No newline at end of file
++Error: Invalid Transaction. Must login first.

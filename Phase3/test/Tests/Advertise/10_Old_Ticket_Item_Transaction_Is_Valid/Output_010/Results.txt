@@ -1,0 +1,19 @@
+--- test/Tests/Advertise/10_Old_Ticket_Item_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Advertise/10_Old_Ticket_Item_Transaction_Is_Valid/Output_010/Terminal_Output.txt	2023-03-06 14:44:52.097816500 -0500
+@@ -3,7 +3,8 @@
+ Welcome TestBuyer001!
+ Processing Bid Transaction...
+ Enter item name:
++Error: Item is not available.
+ Enter seller name:
+-Enter minimum bid:
+-Bid successful: TestItem004               TestSeller001   TestBuyer001    007 200.00
+-Goodbye, thank you for visiting.
++Error: Invalid Transaction. Item does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Goodbye, thank you for visiting!
+--- test/Tests/Advertise/10_Old_Ticket_Item_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Advertise/10_Old_Ticket_Item_Transaction_Is_Valid/Output_010/Daily_Transaction.txt	2023-03-06 14:44:52.096815000 -0500
+@@ -1,2 +1 @@
+-04 TestItem004               TestSeller001   TestBuyer001    007 200.00
+ 00 TestBuyer001    BS 001000.00 18410906283934990467     

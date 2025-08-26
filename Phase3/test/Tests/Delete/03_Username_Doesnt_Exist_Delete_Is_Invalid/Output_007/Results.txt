@@ -1,0 +1,20 @@
+--- test/Tests/Delete/03_Username_Doesnt_Exist_Delete_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:54:58.367986363 -0500
++++ test/Tests/Delete/03_Username_Doesnt_Exist_Delete_Is_Invalid/Output_007/Terminal_Output.txt	2023-03-05 01:28:44.730977156 -0500
+@@ -1,7 +1,6 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestAdmin001!
+-Processing Delete Transaction...
+-Enter username: 
+-Error: Invalid Transaction. User does not exist.
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Input username to delete: 
++Username not found in the system. Please try again. 
++Goodbye, thank you for visiting!
+--- test/Tests/Delete/03_Username_Doesnt_Exist_Delete_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 23:55:00.887955027 -0500
++++ test/Tests/Delete/03_Username_Doesnt_Exist_Delete_Is_Invalid/Output_007/Daily_Transaction.txt	2023-03-05 01:28:44.730977156 -0500
+@@ -1 +1 @@
+-00 TestAdmin001    AA 001000.00 18410906283934990467     
+\ No newline at end of file
++00 TestAdmin001    AA 001000.00 18410906283934990467     

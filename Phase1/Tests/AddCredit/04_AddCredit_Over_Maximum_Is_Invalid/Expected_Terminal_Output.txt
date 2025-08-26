@@ -1,0 +1,6 @@
+Welcome TestAdmin001!
+Please enter username:
+Please enter credit amount:
+Error: Invalid Transaction. Credit amount is over $1000 limit.
+Goodbye, thank you for visiting.
+Session terminated.

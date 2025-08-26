@@ -1,0 +1,10 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing Create Transaction...
+Enter new username: 
+Enter new user type (AA, FS, BS, SS): 
+Enter new user credit: 
+Enter new user password: 
+Create successful: TestFull002     FS 000000.00 18410906283934990467     
+Goodbye, thank you for visiting!

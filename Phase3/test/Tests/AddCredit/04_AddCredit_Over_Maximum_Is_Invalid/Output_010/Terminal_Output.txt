@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing AddCredit Transaction...
+Enter username:
+Enter credit amount:
+Error: Amount of credit added must be between 0 and 1000.
+Goodbye, thank you for visiting!

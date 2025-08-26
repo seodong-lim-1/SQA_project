@@ -1,0 +1,18 @@
+--- test/Tests/Login/09_NonAdmin_Privilged_Transaction_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.000000000 -0500
++++ test/Tests/Login/09_NonAdmin_Privilged_Transaction_Is_Invalid/Output_002/Terminal_Output.txt	2023-03-04 02:51:54.351465564 -0500
+@@ -1,4 +1,12 @@
++Enter username: 
++Enter password: 
+ Welcome TestFull001!
+-Error: Invalid transaction. User lacks transaction privilege.
++|-----------------------------------------|
++| Username        | Privilege | Credit    |
++|-----------------------------------------|
++| TestAdmin001    | AA        | 1000.00   | 
++| TestFull001     | FS        | 1000.00   | 
++| TestBuyer001    | BS        | 1000.00   | 
++| TestSeller001   | SS        | 1000.00   | 
++|-----------------------------------------|
+ Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file

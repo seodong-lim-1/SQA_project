@@ -1,0 +1,9 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Enter auction length:
+Enter minimum bid:
+Error: Invalid Transaction. Minimum bid must be less than $999.99
+Goodbye, thank you for visiting.

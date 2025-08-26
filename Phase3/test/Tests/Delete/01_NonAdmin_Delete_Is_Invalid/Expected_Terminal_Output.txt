@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestFull001!
+Error: Invalid Transaction. User lacks privilege.
+Goodbye, thank you for visiting!

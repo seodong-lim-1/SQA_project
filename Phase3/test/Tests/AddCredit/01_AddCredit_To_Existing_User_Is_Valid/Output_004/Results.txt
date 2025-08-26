@@ -1,0 +1,22 @@
+--- test/Tests/AddCredit/01_AddCredit_To_Existing_User_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/AddCredit/01_AddCredit_To_Existing_User_Is_Valid/Output_004/Terminal_Output.txt	2023-03-04 14:14:12.019190050 -0500
+@@ -1,6 +1,6 @@
+-Welcome TestAdmin001!
+-Please enter username:
+-Please enter credit amount:
+-AddCredit transaction successful.
+-Goodbye, thank you for visiting.
+-Session terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/AddCredit/01_AddCredit_To_Existing_User_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/AddCredit/01_AddCredit_To_Existing_User_Is_Valid/Output_004/Daily_Transaction.txt	2023-03-04 14:14:12.025856653 -0500
+@@ -1,2 +0,0 @@
+-06 TestBuyer001    BS 000100.00
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

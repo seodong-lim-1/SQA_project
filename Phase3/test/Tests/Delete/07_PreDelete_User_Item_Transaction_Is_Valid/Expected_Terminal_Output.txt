@@ -1,0 +1,9 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Processing Bid Transaction...
+Enter item name:
+Enter seller name:
+Enter minimum bid:
+Bid successful: TestItem004               TestSeller001   TestBuyer001    007 200.00
+Goodbye, thank you for visiting.

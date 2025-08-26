@@ -1,0 +1,6 @@
+login
+TestFull001
+password123
+addcredit
+100
+logout

@@ -1,0 +1,15 @@
+--- test/Tests/AddCredit/05_AddCredit_Admin_Mode/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/AddCredit/05_AddCredit_Admin_Mode/Output_010/Terminal_Output.txt	2023-03-06 14:44:51.152023400 -0500
+@@ -4,5 +4,4 @@
+ Processing AddCredit Transaction...
+ Enter username:
+ Enter credit amount:
+-AddCredit successful: TestFull001     FS 001100.00
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++AddCredit successful: TestFull001     FS 001100.00 18410906283934990467     
+--- test/Tests/AddCredit/05_AddCredit_Admin_Mode/Expected_Daily_Transaction_File.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/AddCredit/05_AddCredit_Admin_Mode/Output_010/Daily_Transaction.txt	2023-03-06 14:44:51.154025500 -0500
+@@ -1,2 +0,0 @@
+-06 TestFull001     FS 001100.00 18410906283934990467     
+-00 TestAdmin001    AA 001000.00 18410906283934990467     

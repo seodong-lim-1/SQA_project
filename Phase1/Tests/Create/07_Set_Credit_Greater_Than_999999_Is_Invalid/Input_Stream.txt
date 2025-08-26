@@ -1,0 +1,7 @@
+login
+TestAdmin001
+create
+TestBuyer005
+BS
+12003004
+logout

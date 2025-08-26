@@ -1,0 +1,18 @@
+--- test/Tests/Advertise/01_Unprivileged_User_Advertise_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 21:37:02.054401326 -0500
++++ test/Tests/Advertise/01_Unprivileged_User_Advertise_Is_Invalid/Output_006/Terminal_Output.txt	2023-03-05 01:18:57.751275000 -0500
+@@ -1,5 +1,7 @@
+ Enter username: 
+ Enter password: 
+-Welcome TestBuyer!
+-Error: Invalid Transaction. User lacks privilege.
+-Goodbye, thank you for visiting.
++Welcome TestBuyer001!
++Enter name of item
++Enter the minimum bid (has to be less than 999.99): 
++Enter the amount of days item will be listed for (max 100 days)
++Amount of days listed value is too large
+--- test/Tests/Advertise/01_Unprivileged_User_Advertise_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 21:37:02.887723979 -0500
++++ test/Tests/Advertise/01_Unprivileged_User_Advertise_Is_Invalid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:57.751275000 -0500
+@@ -1 +0,0 @@
+-00 TestBuyer001    BS 001000.00 18410906283934990467     
+\ No newline at end of file

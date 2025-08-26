@@ -1,0 +1,15 @@
+--- test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.014283317 -0500
++++ test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.755350748 -0500
+@@ -1,3 +1,4 @@
++Enter username: 
++Enter password: 
+ Welcome TestAdmin001!
+ Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file
+--- test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-04 02:09:51.691365359 -0500
++++ test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Output_001/Daily_Transaction.txt	2023-03-04 02:45:35.755350748 -0500
+@@ -1 +1 @@
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file
++00 TestAdmin001    AA 001000.00 18410906283934990467     

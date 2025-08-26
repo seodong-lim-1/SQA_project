@@ -1,0 +1,22 @@
+--- test/Tests/Login/10_Admin_Privileged_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 02:09:51.694698653 -0500
++++ test/Tests/Login/10_Admin_Privileged_Transaction_Is_Valid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.825350037 -0500
+@@ -1,6 +1,6 @@
+-Welcome TestAdmin001!
+-Please enter user name:
+-Please enter user privilege:
+-Create transaction successful. 
+-Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Login/10_Admin_Privileged_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-04 02:09:51.694698653 -0500
++++ test/Tests/Login/10_Admin_Privileged_Transaction_Is_Valid/Output_001/Daily_Transaction.txt	2023-03-04 02:45:35.828683336 -0500
+@@ -1,2 +0,0 @@
+-01 TestFull002     FS 000000.00
+-00 TestAdmin001    FS 001000.00
+\ No newline at end of file

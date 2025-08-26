@@ -1,0 +1,11 @@
+--- test/Tests/Login/06_PostLogin_Login_Transaction_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.000000000 -0500
++++ test/Tests/Login/06_PostLogin_Login_Transaction_Is_Invalid/Output_002/Terminal_Output.txt	2023-03-04 02:51:54.324799173 -0500
+@@ -1,4 +1,5 @@
++Enter username: 
++Enter password: 
+ Welcome TestAdmin001!
+-Error: Invalid Transaction. Cannot login again.
++Error: Invalid Transaction. Transaction does not exist.
+ Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file

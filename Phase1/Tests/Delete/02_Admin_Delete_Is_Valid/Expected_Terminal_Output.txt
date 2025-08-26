@@ -1,0 +1,5 @@
+Welcome, TestAdmin001!
+Please enter user to delete:
+Delete transaction successful: TestBuyer001
+Goodbye, thank you for visiting!
+Session Terminated

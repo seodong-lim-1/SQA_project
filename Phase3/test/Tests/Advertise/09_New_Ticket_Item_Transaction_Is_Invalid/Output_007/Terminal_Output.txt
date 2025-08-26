@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Welcome to the bidding page!
+Enter the name of the item.
+Error: Item is not available.
+Enter the name of the seller.
+Error: Item is not available.

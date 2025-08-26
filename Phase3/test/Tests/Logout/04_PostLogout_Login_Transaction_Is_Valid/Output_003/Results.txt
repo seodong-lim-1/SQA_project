@@ -1,0 +1,22 @@
+--- test/Tests/Logout/04_PostLogout_Login_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.017616603 -0500
++++ test/Tests/Logout/04_PostLogout_Login_Transaction_Is_Valid/Output_003/Terminal_Output.txt	2023-03-04 13:51:18.398685190 -0500
+@@ -1,6 +1,6 @@
+-Welcome TestAdmin001!
+-Goodbye, thank you for visiting!
+-Session terminated.
+-Welcome TestAdmin001!
+-Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
+--- test/Tests/Logout/04_PostLogout_Login_Transaction_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.017616603 -0500
++++ test/Tests/Logout/04_PostLogout_Login_Transaction_Is_Valid/Output_003/Daily_Transaction.txt	2023-03-04 13:51:18.402018497 -0500
+@@ -1,2 +0,0 @@
+-00 TestAdmin001    AA 001000.00
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

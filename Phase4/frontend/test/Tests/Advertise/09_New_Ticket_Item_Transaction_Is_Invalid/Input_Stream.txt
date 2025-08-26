@@ -1,0 +1,7 @@
+login
+TestBuyer001
+password123
+bid
+TestItem004
+TestSeller001
+logout

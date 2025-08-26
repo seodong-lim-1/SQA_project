@@ -1,0 +1,19 @@
+--- test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Output_009/Terminal_Output.txt	2023-03-06 11:50:52.608269000 -0500
+@@ -1,8 +1,6 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestSeller001!
+-Processing Advertise Transaction...
+-Enter item name:
+-Enter auction length:
+-Error: Invalid Transaction. Auction length must be less than 100 days.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Enter name of item
++Enter the minimum bid (has to be less than 999.99): 
++Enter the amount of days item will be listed for (max 100 days)
+--- test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Advertise/07_Item_Days_Greater_Than_100_Is_Invalid/Output_009/Daily_Transaction.txt	2023-03-06 11:50:52.623896000 -0500
+@@ -1 +0,0 @@
+-00 TestSeller001   SS 001000.00 18410906283934990467     

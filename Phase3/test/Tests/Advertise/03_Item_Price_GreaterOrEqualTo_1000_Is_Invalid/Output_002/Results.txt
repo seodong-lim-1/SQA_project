@@ -1,0 +1,19 @@
+--- test/Tests/Advertise/03_Item_Price_GreaterOrEqualTo_1000_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/Advertise/03_Item_Price_GreaterOrEqualTo_1000_Is_Invalid/Output_002/Terminal_Output.txt	2023-03-04 02:51:53.844804138 -0500
+@@ -1,6 +1,6 @@
+-Welcome, TestSeller001
+-Please enter item name:
+-Please enter minimum bid in dollars:
+-Error: Invalid transaction. Minimum bid price is over $1000 limit.
+-Goodbye, thank you for visiting!
+-Session Terminated
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Advertise/03_Item_Price_GreaterOrEqualTo_1000_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.004283460 -0500
++++ test/Tests/Advertise/03_Item_Price_GreaterOrEqualTo_1000_Is_Invalid/Output_002/Daily_Transaction.txt	2023-03-04 02:51:53.848137435 -0500
+@@ -1 +0,0 @@
+-00 TestSeller001   SS 001000.00

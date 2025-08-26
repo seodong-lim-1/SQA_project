@@ -1,0 +1,7 @@
+Welcome TestAdmin001!
+Please enter Buyer username:
+Please enter Seller username:
+Please enter refund amount:
+Refund transaction successful.
+Goodbye, thank you for visiting.
+Session terminated.

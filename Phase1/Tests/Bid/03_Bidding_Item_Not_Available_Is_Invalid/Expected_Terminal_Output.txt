@@ -1,0 +1,5 @@
+Welcome TestBuyer001    
+Please enter item to bid on:
+Error: Invaldi transaction. Item does not exist.
+Goodbye, thank you for visiting!
+Session terminated.

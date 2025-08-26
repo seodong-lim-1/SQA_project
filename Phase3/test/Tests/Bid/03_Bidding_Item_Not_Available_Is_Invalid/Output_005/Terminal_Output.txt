@@ -1,0 +1,13 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Welcome to the bidding page!
+Enter the name of the item.
+This item exists among one or more sellers!
+Enter the name of the seller.
+Item found!
+Current highest bid: 50
+Enter your bid
+Error: Bid must be greater than Current Bid
+Error: You must enter a bid atlease 5% higher than the last bid.
+Bid successful: TestItem001               TestSeller001   TestBuyer001    007 000.00

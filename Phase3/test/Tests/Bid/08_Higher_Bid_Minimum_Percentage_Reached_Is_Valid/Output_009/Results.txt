@@ -1,0 +1,12 @@
+--- test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Expected_Terminal_Output.txt	2023-03-05 23:36:18.454568900 -0500
++++ test/Tests/Bid/08_Higher_Bid_Minimum_Percentage_Reached_Is_Valid/Output_009/Terminal_Output.txt	2023-03-06 11:50:53.472227100 -0500
+@@ -4,6 +4,7 @@
+ Processing Bid Transaction...
+ Enter item name:
+ Enter seller name:
+-Enter minimum bid:
++Current highest bid: 50
++Enter your bid:
+ Bid successful: TestItem001               TestSeller001   TestBuyer001    007 200.00
+-Goodbye, thank you for visiting.
++Goodbye, thank you for visiting!

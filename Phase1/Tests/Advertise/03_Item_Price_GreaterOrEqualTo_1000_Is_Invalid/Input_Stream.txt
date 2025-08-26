@@ -1,0 +1,6 @@
+login
+TestSeller001
+advertise
+TestItem004
+1001
+logout

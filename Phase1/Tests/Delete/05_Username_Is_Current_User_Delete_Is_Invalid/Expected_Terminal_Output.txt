@@ -1,0 +1,5 @@
+Welcome, TestAdmin001!
+Please enter user to delete:
+Error: Invalid transaction. Cannot delete self.
+Goodbye, thank you for visiting!
+Session Terminated

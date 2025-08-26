@@ -1,0 +1,4 @@
+login
+TestFull001
+viewauctions
+logout

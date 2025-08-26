@@ -1,0 +1,13 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Welcome to the bidding page!
+Enter the name of the item.
+This item exists among one or more sellers!
+Enter the name of the seller.
+Item found!
+Current highest bid: 50
+Enter your bid
+Transaction Accepted
+Bid successful: TestItem001               TestSeller001   TestAdmin001    007 051.00
+Goodbye, thank you for visiting!

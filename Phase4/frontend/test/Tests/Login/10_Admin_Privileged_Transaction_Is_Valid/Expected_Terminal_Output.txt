@@ -1,0 +1,15 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestAdmin001!
+Processing ViewUsers Transaction...
+|-----------------------------------------|
+| Username        | Privilege | Credit    |
+|-----------------------------------------|
+| TestAdmin001    | AA        | 1000.00   | 
+| TestFull001     | FS        | 1000.00   | 
+| TestBuyer001    | BS        | 1000.00   | 
+| TestSeller001   | SS        | 1000.00   | 
+|-----------------------------------------|
+Goodbye, thank you for visiting!

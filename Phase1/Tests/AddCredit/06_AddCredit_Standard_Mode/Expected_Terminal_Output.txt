@@ -1,0 +1,5 @@
+Welcome TestBuyer001!
+Please enter credit amount:
+AddCredit transaction successful.
+Goodbye, thank you for visiting.
+Session terminated.

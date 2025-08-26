@@ -1,0 +1,9 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestFull001!
+Processing Create Transaction...
+Error: Invalid Transaction. You must be an Admin to use this transaction.
+Create cancelled.
+Goodbye, thank you for visiting!

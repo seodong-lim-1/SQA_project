@@ -1,0 +1,10 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Processing Bid Transaction...
+Enter item name:
+Error: Item is not available.
+Enter seller name:
+Error: Invalid Transaction. Item does not exist.
+Error: Invalid Transaction. Transaction does not exist.
+Goodbye, thank you for visiting!

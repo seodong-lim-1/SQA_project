@@ -1,0 +1,6 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Enter name of item
+Enter the minimum bid (has to be less than 999.99): 
+Enter the amount of days item will be listed for (max 100 days)

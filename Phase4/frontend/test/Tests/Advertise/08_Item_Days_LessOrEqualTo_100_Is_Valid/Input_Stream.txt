@@ -1,0 +1,8 @@
+login
+TestSeller001
+password123
+advertise
+TestItem004
+7
+100
+logout

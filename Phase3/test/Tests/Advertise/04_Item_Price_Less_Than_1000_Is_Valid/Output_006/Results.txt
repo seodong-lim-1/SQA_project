@@ -1,0 +1,22 @@
+--- test/Tests/Advertise/04_Item_Price_Less_Than_1000_Is_Valid/Expected_Terminal_Output.txt	2023-03-04 21:43:41.725984457 -0500
++++ test/Tests/Advertise/04_Item_Price_Less_Than_1000_Is_Valid/Output_006/Terminal_Output.txt	2023-03-05 01:18:57.784607937 -0500
+@@ -1,9 +1,7 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestSeller001!
+-Processing Advertise Transaction...
+-Enter item name:
+-Enter auction length:
+-Enter minimum bid:
+-Advertise successful: TestItem004               TestSeller001                   007 100.00
+-Goodbye, thank you for visiting.
++Enter name of item
++Enter the minimum bid (has to be less than 999.99): 
++Enter the amount of days item will be listed for (max 100 days)
++Goodbye, thank you for visiting!
+--- test/Tests/Advertise/04_Item_Price_Less_Than_1000_Is_Valid/Expected_Daily_Transaction_File.txt	2023-03-04 21:43:47.165918030 -0500
++++ test/Tests/Advertise/04_Item_Price_Less_Than_1000_Is_Valid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:57.784607937 -0500
+@@ -1,2 +1,2 @@
+-03 TestItem004               TestSeller001   007 100.00
++XX_IIIIIIIIIIIIIIIIIIIIIIIII_SSSSSSSSSSSSSSS_DDD_BBBBBB
+ 00 TestSeller001   SS 001000.00 18410906283934990467     

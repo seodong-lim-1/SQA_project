@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Enter the user you want to add credit into.
+Username not found in the system. Please try again. 
+Error: Invalid Transaction. Transaction does not exist.
+Goodbye, thank you for visiting!

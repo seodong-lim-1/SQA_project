@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Welcome to the bidding page!
+Enter item name:
+Enter seller name:
+Error: Invalid Transaction. Item does not exist.
+Goodbye, thank you for visiting!

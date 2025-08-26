@@ -1,0 +1,28 @@
+--- test/Tests/Bid/07_Higher_Bid_Minimum_Percentage_Not_Reached_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 22:09:59.506123857 -0500
++++ test/Tests/Bid/07_Higher_Bid_Minimum_Percentage_Not_Reached_Is_Invalid/Output_006/Terminal_Output.txt	2023-03-05 01:18:58.174603313 -0500
+@@ -1,9 +1,13 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestBuyer001!
+-Processing Bid Transaction...
+-Enter item name:
+-Enter seller name:
+-Enter minimum bid:
+-Error: Invalid Transaction. Bid must be atleast 5% higher than previous current highest bid.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Welcome to the bidding page!
++Enter the name of the item.
++This item exists among one or more sellers!
++Enter the name of the seller.
++Item found!
++Current highest bid: 50
++Enter your bid
++Error: You must enter a bid atlease 5% higher than the last bid.
++Bid successful: TestItem001               TestSeller001   TestBuyer001    007 051.00
++Goodbye, thank you for visiting!
+--- test/Tests/Bid/07_Higher_Bid_Minimum_Percentage_Not_Reached_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 22:09:57.376150979 -0500
++++ test/Tests/Bid/07_Higher_Bid_Minimum_Percentage_Not_Reached_Is_Invalid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:58.174603313 -0500
+@@ -1 +1,2 @@
++XX_IIIIIIIIIIIIIIIIIIIIIIIII_SSSSSSSSSSSSSSS_UUUUUUUUUUUUUUU_DDD_BBBBBB
+ 00 TestBuyer001    BS 001000.00 18410906283934990467     

@@ -1,0 +1,11 @@
+--- test/Tests/Create/03_Username_Length_GreaterThan_15_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:05:58.660951114 -0500
++++ test/Tests/Create/03_Username_Length_GreaterThan_15_Is_Invalid/Output_005/Terminal_Output.txt	2023-03-05 01:08:23.162122174 -0500
+@@ -3,5 +3,5 @@
+ Welcome TestAdmin001!
+ Processing Create Transaction...
+ Enter new username: 
+-Error: Invalid Transaction. Username length must be less than 15.
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Error: Invalid Transaction. Username must be less than 15 characters.
++Goodbye, thank you for visiting!

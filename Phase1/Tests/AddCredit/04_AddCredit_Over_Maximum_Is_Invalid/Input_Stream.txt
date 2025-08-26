@@ -1,0 +1,6 @@
+login
+TestAdmin001
+addcredit
+TestBuyer001
+1001
+logout

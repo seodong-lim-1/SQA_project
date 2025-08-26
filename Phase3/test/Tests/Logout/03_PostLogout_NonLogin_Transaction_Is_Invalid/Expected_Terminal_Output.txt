@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Goodbye, thank you for visiting!
+Error: Invalid Transaction. Must login first.

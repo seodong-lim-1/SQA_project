@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing AddCredit Transaction...
+Enter username:
+AddCredit successful: TestFull001     FS 001100.00
+Goodbye, thank you for visiting.

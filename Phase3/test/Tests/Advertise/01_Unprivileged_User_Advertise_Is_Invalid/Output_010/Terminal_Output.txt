@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer001!
+Error: Invalid Transaction. User is a buy standard account.
+Goodbye, thank you for visiting!

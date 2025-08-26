@@ -1,0 +1,11 @@
+--- test/Tests/Create/05_Username_Exists_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:06:57.700211976 -0500
++++ test/Tests/Create/05_Username_Exists_Is_Invalid/Output_005/Terminal_Output.txt	2023-03-05 01:08:23.185455231 -0500
+@@ -3,5 +3,5 @@
+ Welcome TestAdmin001!
+ Processing Create Transaction...
+ Enter new username: 
+-Error: Invalid Transaction. User already exists.
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Error: Invalid Transaction. Username already exists.
++Goodbye, thank you for visiting!

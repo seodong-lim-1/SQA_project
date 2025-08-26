@@ -1,0 +1,9 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing Create Transaction...
+Enter new username: 
+Enter new user type (AA, FS, BS, SS): 
+Enter new user credit: 
+Error: Invalid Transaction. Credit must be less than 999999.0.
+Goodbye, thank you for visiting!

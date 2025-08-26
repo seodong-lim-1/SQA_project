@@ -1,0 +1,4 @@
+login
+TestBuyer001
+advertise
+logout

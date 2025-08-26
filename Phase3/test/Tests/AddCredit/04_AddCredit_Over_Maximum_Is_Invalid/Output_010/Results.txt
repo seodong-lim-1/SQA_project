@@ -1,0 +1,10 @@
+--- test/Tests/AddCredit/04_AddCredit_Over_Maximum_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/AddCredit/04_AddCredit_Over_Maximum_Is_Invalid/Output_010/Terminal_Output.txt	2023-03-06 14:44:51.082455900 -0500
+@@ -4,5 +4,5 @@
+ Processing AddCredit Transaction...
+ Enter username:
+ Enter credit amount:
+-Error: Invalid Transaction. Invalid credit amount.
+-Goodbye, thank you for visiting.
++Error: Amount of credit added must be between 0 and 1000.
++Goodbye, thank you for visiting!

@@ -1,0 +1,7 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Processing Delete Transaction...
+Enter username: 
+Delete successful: TestFull001     FS 001000.00 18410906283934990467     
+Goodbye, thank you for visiting!

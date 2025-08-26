@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Enter auction length:
+Error: Invalid Transaction. Auction length must be less than 100 days.
+Goodbye, thank you for visiting.

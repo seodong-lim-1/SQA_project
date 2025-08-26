@@ -1,0 +1,6 @@
+Welcome TestBuyer001    
+Please enter item to bid on:
+Please enter bid:
+Error: Invalid transaction. Bid is not higher than previous highest.
+Goodbye, thank you for visiting!
+Session Terminated.

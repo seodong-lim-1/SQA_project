@@ -1,0 +1,16 @@
+--- test/Tests/AddCredit/04_AddCredit_Over_Maximum_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/AddCredit/04_AddCredit_Over_Maximum_Is_Invalid/Output_008/Terminal_Output.txt	2023-03-06 11:14:56.518784600 -0500
+@@ -1,8 +1,8 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestAdmin001!
+-Processing AddCredit Transaction...
+-Enter username:
+-Enter credit amount:
+-Error: Invalid Transaction. Invalid credit amount.
+-Goodbye, thank you for visiting.
++Enter the user you want to add credit into.
++Username found
++Enter the amount of credit to add:
++Error: Amount of credit added must be between 0 and 1000.
++Goodbye, thank you for visiting!

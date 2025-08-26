@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Error: Invalid Transaction. User does not exist.
+Error: Invalid Transaction. Transaction does not exist.
+Error: Invalid Transaction. Transaction does not exist.

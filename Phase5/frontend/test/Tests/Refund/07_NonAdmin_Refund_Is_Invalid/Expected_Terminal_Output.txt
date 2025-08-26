@@ -1,0 +1,9 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestFull001!
+Processing Refund Transaction...
+Error: Invalid Transaction. User lacks privilege.
+Refund cancelled.
+Goodbye, thank you for visiting!

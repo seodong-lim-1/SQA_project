@@ -1,0 +1,10 @@
+login
+TestAdmin001
+delete
+TestSeller001
+logout
+login
+TestBuyer001
+bid
+TestItem001
+logout

@@ -1,0 +1,7 @@
+Welcome TestAdmin001!
+Please enter user name:
+Please enter user type:
+Please enter user credit:
+Create transaction successful: Testman006      FS 000010.00
+Goodbye, thanks for visiting!
+Session terminated.

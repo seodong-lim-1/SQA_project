@@ -1,0 +1,5 @@
+Welcome TestAdmin001!
+Please enter user name:
+Error: Invalid transaction. User already exists.
+Goodbye, thank you for visiting!
+Session terminated.

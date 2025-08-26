@@ -1,0 +1,10 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestAdmin001!
+Processing Create Transaction...
+Enter new username: 
+Error: Invalid Transaction. Username already exists.
+Create cancelled.
+Goodbye, thank you for visiting!

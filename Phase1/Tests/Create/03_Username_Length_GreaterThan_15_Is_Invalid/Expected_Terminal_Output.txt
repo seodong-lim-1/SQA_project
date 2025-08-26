@@ -1,0 +1,5 @@
+Welcome TestAdmin001!
+Please enter user name:
+Error: Invalid transaction. Username length is greater than 15.
+Goodbye, thank you for visiting!
+Session terminated.

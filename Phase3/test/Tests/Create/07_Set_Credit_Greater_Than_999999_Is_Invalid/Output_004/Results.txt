@@ -1,0 +1,22 @@
+--- test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Output_004/Terminal_Output.txt	2023-03-04 14:14:12.335853649 -0500
+@@ -1,7 +1,7 @@
+-Welcome TestAdmin001!
+-Please enter user name:
+-Please enter user type:
+-Please enter user credit:
+-Error: Invalid transaction. Set credit over 999,999 limit.
+-Goodbye, thank you for visiting!
+-Session terminated.
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.010950032 -0500
++++ test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Output_004/Daily_Transaction.txt	2023-03-04 14:14:12.335853649 -0500
+@@ -1 +0,0 @@
+-00 TestAdmin001    AA 001000.00
+\ No newline at end of file

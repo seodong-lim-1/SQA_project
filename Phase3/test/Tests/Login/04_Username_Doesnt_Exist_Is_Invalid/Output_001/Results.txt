@@ -1,0 +1,8 @@
+--- test/Tests/Login/04_Username_Doesnt_Exist_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 02:09:51.691365359 -0500
++++ test/Tests/Login/04_Username_Doesnt_Exist_Is_Invalid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.768683947 -0500
+@@ -1 +1,3 @@
+-Error: Invalid login. Username does not exist.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.

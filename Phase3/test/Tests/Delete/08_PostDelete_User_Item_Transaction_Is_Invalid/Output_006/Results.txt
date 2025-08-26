@@ -1,0 +1,20 @@
+--- test/Tests/Delete/08_PostDelete_User_Item_Transaction_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:59:06.694897312 -0500
++++ test/Tests/Delete/08_PostDelete_User_Item_Transaction_Is_Invalid/Output_006/Terminal_Output.txt	2023-03-05 01:18:58.604598217 -0500
+@@ -1,7 +1,8 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestBuyer001!
+-Processing Bid Transaction...
+-Enter item name:
+-Error: Invalid Transaction. Item does not exist.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Welcome to the bidding page!
++Enter the name of the item.
++Error: Item is not available.
++Enter the name of the seller.
++Error: Item is not available.
+--- test/Tests/Delete/08_PostDelete_User_Item_Transaction_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-04 23:59:51.367628900 -0500
++++ test/Tests/Delete/08_PostDelete_User_Item_Transaction_Is_Invalid/Output_006/Daily_Transaction.txt	2023-03-05 01:18:58.761263025 -0500
+@@ -1 +0,0 @@
+-00 TestBuyer001    BS 001000.00 18410906283934990467     

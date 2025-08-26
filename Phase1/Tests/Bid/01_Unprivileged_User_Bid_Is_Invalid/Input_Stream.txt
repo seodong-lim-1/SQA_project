@@ -1,0 +1,4 @@
+login
+TestSeller01
+bid
+logout

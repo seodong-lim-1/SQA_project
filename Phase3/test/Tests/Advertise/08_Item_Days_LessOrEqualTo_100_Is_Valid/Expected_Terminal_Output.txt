@@ -1,0 +1,9 @@
+Enter username: 
+Enter password: 
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Enter auction length:
+Enter minimum bid:
+Advertise successful: TestItem004               TestSeller001                   007 100.00
+Goodbye, thank you for visiting.

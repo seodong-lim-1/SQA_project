@@ -1,0 +1,7 @@
+Welcome TestFull001!
+Please enter item name:
+Please enter minimum bid in dollars:
+Please enter number of days until auction ends:
+Advertise transaction successful. 
+Goodbye, thank you for visiting!
+Session terminated.

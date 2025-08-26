@@ -1,0 +1,5 @@
+login
+TestFull001
+password123
+delete
+logout

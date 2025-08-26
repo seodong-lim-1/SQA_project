@@ -1,0 +1,10 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestSeller001!
+Processing Advertise Transaction...
+Enter item name:
+Error: Invalid Transaction. Item name must be less than 25 characters.
+Advertise cancelled.
+Goodbye, thank you for visiting!

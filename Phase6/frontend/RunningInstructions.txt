@@ -1,0 +1,16 @@
+Program Running Instructions:
+
+-> cd src
+-> make
+-> ./main DailyTransactionFile.txt UserAccountsFile.txt AvailableItems.txt
+
+
+Script Running Instructions:
+
+-> cd tests/frontend
+-> bash run_tests.sh
+
+
+Program Users:
+testAAUser	AA	password
+testFSUser	FS	password

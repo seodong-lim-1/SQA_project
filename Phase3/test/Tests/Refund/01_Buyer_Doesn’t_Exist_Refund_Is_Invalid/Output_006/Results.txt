@@ -1,0 +1,19 @@
+--- "test/Tests/Refund/01_Buyer_Doesn\342\200\231t_Exist_Refund_Is_Invalid/Expected_Terminal_Output.txt"	2023-03-05 01:04:45.921351596 -0500
++++ "test/Tests/Refund/01_Buyer_Doesn\342\200\231t_Exist_Refund_Is_Invalid/Output_006/Terminal_Output.txt"	2023-03-05 01:18:59.097925697 -0500
+@@ -2,6 +2,6 @@
+ Enter password: 
+ Welcome TestAdmin001!
+ Processing Refund Transaction...
+-Enter buyer username: 
+-Error: Invalid Transaction. User does not exist.
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Enter buyer's username: 
++Error: Invalid Transaction. Username already exists.
++Goodbye, thank you for visiting!
+--- "test/Tests/Refund/01_Buyer_Doesn\342\200\231t_Exist_Refund_Is_Invalid/Expected_Daily_Transaction_File.txt"	2023-03-05 01:04:45.921351596 -0500
++++ "test/Tests/Refund/01_Buyer_Doesn\342\200\231t_Exist_Refund_Is_Invalid/Output_006/Daily_Transaction.txt"	2023-03-05 01:18:59.097925697 -0500
+@@ -1 +1 @@
+-00 TestAdmin001    AA 001000.00 18410906283934990467     
+\ No newline at end of file
++00 TestAdmin001    AA 001000.00 18410906283934990467     

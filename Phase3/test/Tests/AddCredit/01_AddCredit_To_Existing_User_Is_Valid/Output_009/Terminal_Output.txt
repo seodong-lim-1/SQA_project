@@ -1,0 +1,8 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Enter the user you want to add credit into.
+Username found
+Enter the amount of credit to add:
+Bid successful: TestFull001     FS 001100.00 18410906283934990467     
+Goodbye, thank you for visiting!

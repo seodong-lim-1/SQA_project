@@ -1,0 +1,21 @@
+--- test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Output_001/Terminal_Output.txt	2023-03-04 02:45:35.418687502 -0500
+@@ -1,6 +1,6 @@
+-Welcome TestBuyer001    
+-Please enter item to bid on:
+-Please enter bid:
+-Error: Invalid transaction. Bid is not higher than previous highest.
+-Goodbye, thank you for visiting!
+-Session Terminated.
+\ No newline at end of file
++Enter username: 
++Enter password: 
++Error: Invalid Transaction. User does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
++Error: Invalid Transaction. Transaction does not exist.
+--- test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Expected_Daily_Transaction_File.txt	2023-03-03 23:48:56.007616745 -0500
++++ test/Tests/Bid/05_Bid_Less_Than_Previous_Highest_Is_Invalid/Output_001/Daily_Transaction.txt	2023-03-04 02:45:35.418687502 -0500
+@@ -1 +0,0 @@
+-00 TestBuyer001    BS 001000.00
+\ No newline at end of file

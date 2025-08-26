@@ -1,0 +1,14 @@
+--- test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Expected_Terminal_Output.txt	2023-03-05 15:47:47.000000000 -0500
++++ test/Tests/Advertise/05_Item_Name_Length_Greater_Than_25_Is_Invalid/Output_008/Terminal_Output.txt	2023-03-06 11:14:56.958092500 -0500
+@@ -1,7 +1,6 @@
+ Enter username: 
+ Enter password: 
+ Welcome TestSeller001!
+-Processing Advertise Transaction...
+-Enter item name:
+-Error: Invalid Transaction. Item name length must be less than 25.
+-Goodbye, thank you for visiting.
+\ No newline at end of file
++Enter name of item
++Item name invalid as it is over 25 characters
++Goodbye, thank you for visiting!

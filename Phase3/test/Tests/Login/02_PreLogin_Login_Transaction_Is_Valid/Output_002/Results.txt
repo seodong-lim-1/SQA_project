@@ -1,0 +1,9 @@
+--- test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Expected_Terminal_Output.txt	2023-03-03 23:48:56.000000000 -0500
++++ test/Tests/Login/02_PreLogin_Login_Transaction_Is_Valid/Output_002/Terminal_Output.txt	2023-03-04 02:51:54.288132885 -0500
+@@ -1,3 +1,4 @@
++Enter username: 
++Enter password: 
+ Welcome TestAdmin001!
+ Goodbye, thank you for visiting!
+-Session terminated.
+\ No newline at end of file

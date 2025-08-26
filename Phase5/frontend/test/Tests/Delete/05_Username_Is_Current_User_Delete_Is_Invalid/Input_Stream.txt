@@ -1,0 +1,6 @@
+login
+TestAdmin001
+password123
+delete
+TestAdmin001
+logout

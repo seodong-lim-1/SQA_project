@@ -1,0 +1,7 @@
+login
+TestSeller001
+advertise
+TestItem004
+15.00
+7
+logout

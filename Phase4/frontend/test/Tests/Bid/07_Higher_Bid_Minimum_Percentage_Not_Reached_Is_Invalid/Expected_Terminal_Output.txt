@@ -1,0 +1,13 @@
+Processing Login Transaction...
+Enter username: 
+Enter password: 
+Login successful!
+Welcome TestBuyer001!
+Processing Bid Transaction...
+Enter item name:
+Enter seller name:
+Current highest bid: 50
+Enter new bid:
+Error: Invalid Transaction. Bid must be greater than current highest bid by 5%.
+Bid cancelled.
+Goodbye, thank you for visiting!

@@ -1,0 +1,5 @@
+login
+TestBuyer001
+password123
+advertise
+logout

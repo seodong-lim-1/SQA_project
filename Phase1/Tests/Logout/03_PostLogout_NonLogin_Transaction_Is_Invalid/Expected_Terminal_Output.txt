@@ -1,0 +1,4 @@
+Welcome TestAdmin001!
+Goodbye, thank you for visiting!
+Session terminated.
+Error: Invalid transaction. Please login first.

@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestBuyer!
+Error: Invalid Transaction. User lacks privilege.
+Goodbye, thank you for visiting.

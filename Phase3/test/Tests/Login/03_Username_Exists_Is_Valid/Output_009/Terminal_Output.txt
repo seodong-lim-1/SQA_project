@@ -1,0 +1,4 @@
+Enter username: 
+Enter password: 
+Welcome TestAdmin001!
+Goodbye, thank you for visiting!

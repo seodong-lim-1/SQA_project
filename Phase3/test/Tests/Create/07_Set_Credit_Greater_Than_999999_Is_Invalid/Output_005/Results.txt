@@ -1,0 +1,11 @@
+--- test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Expected_Terminal_Output.txt	2023-03-04 23:08:17.502545712 -0500
++++ test/Tests/Create/07_Set_Credit_Greater_Than_999999_Is_Invalid/Output_005/Terminal_Output.txt	2023-03-05 01:08:23.212121582 -0500
+@@ -5,5 +5,5 @@
+ Enter new username: 
+ Enter new user type (AA, FS, BS, SS): 
+ Enter new user credit: 
+-Error: Invalid Transaction. Credit must be less than $999,999.00
+-Goodbye, thank you for visiting!
+\ No newline at end of file
++Error: Invalid Transaction. Credit must be less than 999999.0.
++Goodbye, thank you for visiting!

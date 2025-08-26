@@ -1,0 +1,6 @@
+Welcome TestBuyer001    
+Please enter item to bid on:
+Please enter bid:
+Bid transaction successful.
+Goodbye, thank you for visiting!
+Session terminated.

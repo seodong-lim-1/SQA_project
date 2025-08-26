@@ -1,0 +1,5 @@
+Enter username: 
+Enter password: 
+Welcome TestFull001!
+Error: Invalid Transaction. You must be an Admin to use this transaction.
+Goodbye, thank you for visiting!
